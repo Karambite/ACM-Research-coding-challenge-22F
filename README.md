@@ -58,4 +58,5 @@ Feel free to ask for clarifications in the #research-qna channel in the [ACM UTD
 &emsp;Many example notebooks on Kaggle using this dataset filter and clean the data. These notebooks delete features like Stock# and VIN as they provide little information about the price. Since Consumer Rating is a compilation of six other features, Consumer Rating could be considered unnecessary information. This idea requires more analysis but should be considered when using this dataset.<br>
 
 ## Source
--https://www.kaggle.com/code/ekasabrol/cars-for-sale-clean-encode-classifier
+-https://www.kaggle.com/code/ekasabrol/cars-for-sale-clean-encode-classifier (for data cleaning)
+-https://www.kaggle.com/code/abhishekamishra/samplenotebook (for sklearn's feature importance)
