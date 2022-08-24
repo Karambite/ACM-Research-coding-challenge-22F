@@ -59,4 +59,4 @@ Feel free to ask for clarifications in the #research-qna channel in the [ACM UTD
 
 ## Source
 -https://www.kaggle.com/code/ekasabrol/cars-for-sale-clean-encode-classifier (for data cleaning) <br>
--https://www.kaggle.com/code/abhishekamishra/samplenotebook (for sklearn's feature importance) <br>
+-https://www.kaggle.com/code/abhishekamishra/samplenotebook (for sklearn's feature importances) <br>
